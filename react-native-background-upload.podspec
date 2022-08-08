@@ -14,5 +14,5 @@ require "json"
    s.source_files = "ios/*.{h,m}"
    s.platform = :ios, "9.0"
 
-   s.dependency "React"
+   s.dependency "React-Core"
  end
